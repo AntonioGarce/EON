@@ -1,0 +1,10 @@
+--lineend=linux
+--mode=c
+--max-code-length=110
+
+--style=vtk
+
+--add-brackets
+
+--break-after-logical
+--pad-oper
